@@ -13,9 +13,9 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVue.js_Logo_2.svg&psig=AOvVaw065bTAIgEylJBk-C-cJyoV&ust=1666371737542000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDTmMyk7_oCFQAAAAAdAAAAABAJ">
+  <img align="center" alt="NuxtJs" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANuxt_logo.svg&psig=AOvVaw3Q9gAWauBMzhkCii-_N-rP&ust=1666371809651000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDK5u6k7_oCFQAAAAAdAAAAABAE">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetbootstrap.com%2Fdocs%2F5.0%2Fabout%2Fbrand%2F&psig=AOvVaw3H7LRRrnvuxtBTf0xRvBlk&ust=1666371851475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDfuIKl7_oCFQAAAAAdAAAAABAE">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
     
