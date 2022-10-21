@@ -27,4 +27,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisLessi&repo=LuisLessi&theme=react)(https://github.com/LuisLessi/LuisLessi)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisLessirepo=LuisLessi&theme=react)](https://github.com/LuisLessi/LuisLessi)
