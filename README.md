@@ -25,6 +25,6 @@
  
   ![Snake animation](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</span>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisLessi&repo=LuisLessi&theme=react)](https://github.com/LuisLessi/LuisLessi)
+![PointedFrequentImperatorangel-size_restricted](https://user-images.githubusercontent.com/63880375/197192864-9216b8cb-1180-44fb-8df8-b300e6b4d101.gif)  
