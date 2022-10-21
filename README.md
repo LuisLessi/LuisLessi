@@ -1,4 +1,4 @@
-<h1> Hi! My name is Luis. </h1>
+<h1> Hi my name is Luís and I am fascinated by this world of IT. </h1>
 
 <div>
   <a href="https://github.com/LuisLessi">
@@ -27,4 +27,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisLessi&repo=LuisLessi&theme=react)](https://github.com/LuisLessi/LuisLessi)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuisLessi&repo=LuisLessi&theme=react)(https://github.com/LuisLessi/LuisLessi)
