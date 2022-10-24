@@ -22,6 +22,8 @@
 </div>
   <br>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-lessi-silva-9496aa1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br><br>
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/63880375/197605848-330434b3-a227-49e1-92f7-653cb4ef11b7.jpg">
  
   ![Snake animation](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
  
