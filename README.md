@@ -3,7 +3,7 @@
 
   <br>
 <br> 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHi my name is Luís and I am fascinated by this world of IT. ඞ </h1>
+&nbsp&nbsp&nbsp&nbspHi my name is Luís and I am fascinated by this world of IT. ඞ </h1>
 
 <div>
   <a href="https://github.com/LuisLessi">
