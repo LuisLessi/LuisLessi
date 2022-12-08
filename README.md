@@ -1,7 +1,8 @@
 <h1>public static void main(String args[ ]){ <br>
-System.out.print("Bem vindo ao meu perfil"); <br>
+System.out.print("Welcome to my profile"); <br>
 }
-<br> Hi my name is Luís and I am fascinated by this world of IT. ඞ </h1>
+<br> 
+Hi my name is Luís and I am fascinated by this world of IT. ඞ </h1>
 
 <div>
   <a href="https://github.com/LuisLessi">
