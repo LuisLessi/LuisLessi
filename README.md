@@ -27,7 +27,7 @@
 </div>
   <br>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-lessi-silva-9496aa1a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
-<a href="https://prismatic-genie-7d2a01.netlify.app/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/63880375/197624770-95d33be4-e8df-47c9-b0e3-86fea0733bb2.png"></a>
+<a href="https://luislessi.github.io/My-portfolio/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/63880375/197624770-95d33be4-e8df-47c9-b0e3-86fea0733bb2.png"></a>
 
  
   ![Snake animation](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
