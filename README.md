@@ -7,10 +7,10 @@
 &nbsp&nbsp&nbsp&nbspHi my name is Luís and I am fascinated by this world of IT. ඞ </h1>
 
 <div>
-  <a href="https://github.com/luislessi">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luislessi&show_icons=true&theme=midnight-purple&include_all_commits&count=true"/>
+  <a href="https://github.com/LuisLessi">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LuisLessi&show_icons=true&theme=midnight-purple&include_all_commits&count=true"/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislessi&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLessi&layout=compact&langs_count=7&theme=midnight-purple" />
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
