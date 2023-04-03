@@ -30,8 +30,7 @@
 <a href="https://luislessi.github.io/My-portfolio/" target="_blank"><img height="50" width="50" src="https://user-images.githubusercontent.com/63880375/197624770-95d33be4-e8df-47c9-b0e3-86fea0733bb2.png"></a>
 
  
-  ![Snake animation](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
- 
+ ![snake gif](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
 </span>
  
 ![PointedFrequentImperatorangel-size_restricted](https://user-images.githubusercontent.com/63880375/197192864-9216b8cb-1180-44fb-8df8-b300e6b4d101.gif)  
