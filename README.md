@@ -1,10 +1,11 @@
+<div align="center">
   <p align="center">
-    <h1>public static void main(String args[ ]){ <br>
-  System.out.print("Welcome to my profile"); <br>}
-    <br>
+    <h1>echo "Welcome to my profile"; <br>
+    </p>
    Hi my name is Luís and I am fascinated by this world of IT. ඞ</h1>
   </p>
-  
+</div>  
+
 <div align="center">
  <a href="https://github.com/LuisLessi">
   <img height="180em"   align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisLessi&show_icons=true&theme=midnight-purple&include_all_commits&count=true"/>
