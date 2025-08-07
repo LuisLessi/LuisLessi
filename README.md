@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/LuisLessi/LuisLessi/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/LuisLessi/LuisLessi/blob/output/github-snake-dark.svg)
   
 </div>
  
