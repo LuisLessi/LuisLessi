@@ -20,7 +20,7 @@
     <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
     <img alt="VueJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
     <img alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI">
-    <img alt="Airflow" height="40" width="50" src="https://airflow.apache.org/images/feature-image.png" title="Airflow">
+    <img alt="Airflow" height="40" width="50" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?version=1&modificationDate=1509723942000&api=v2" title="Airflow">
     <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
     <img alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL">
     <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
