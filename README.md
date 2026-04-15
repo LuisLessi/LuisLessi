@@ -16,15 +16,38 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <div style="display: inline_block; margin: 20px 0;">
-    <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-    <img alt="VueJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
-    <img alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI">
-    <img alt="Airflow" height="40" width="50" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?version=1&modificationDate=1509723942000&api=v2" title="Airflow">
-    <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-    <img alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL">
-    <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metabase.svg" width="48" height="48" alt="Metabase" style="filter: invert(21%) sepia(93%) saturate(2982%) hue-rotate(218deg) brightness(93%) contrast(101%);" />
+        <br>Metabase
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
+        <br>Power BI
+      </td>
+      <td align="center" width="96">
+        <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?version=1&modificationDate=1509723942000&api=v2" width="48" height="48" alt="Airflow" />
+        <br>Airflow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
