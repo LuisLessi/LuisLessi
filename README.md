@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/LuisLessi">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisLessi&show_icons=true&theme=midnight-purple&include_all_commits&count=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuisLessi&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img height="180em" src="./profile/stats.svg" />
+    <img height="180em" src="./profile/top-langs.svg" />
     <img width="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613" style="border-radius: 10px;">
   </a>
 </div>
