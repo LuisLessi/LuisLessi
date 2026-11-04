@@ -1,4 +1,5 @@
 name: Update README cards
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -9,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v6
-      
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -28,7 +30,15 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Commit
+      - name: Generate PRs card
+        uses: Daraan/pr-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          theme: midnight-purple
+          path: profile/prs-
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
