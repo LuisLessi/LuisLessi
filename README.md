@@ -27,8 +27,8 @@
         <br>Metabase
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
-        <br>Power BI
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="Amazon Bedrock" />
+        <br>AWS (Bedrock)
       </td>
       <td align="center" width="96">
         <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?version=1&modificationDate=1509723942000&api=v2" width="48" height="48" alt="Airflow" />
